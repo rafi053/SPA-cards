@@ -1,1 +1,1 @@
-# single-page-application
+# SPA-cards
